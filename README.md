@@ -1,0 +1,2 @@
+# SpendWise
+Student Expense Tracker
